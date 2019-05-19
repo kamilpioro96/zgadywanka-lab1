@@ -1,14 +1,17 @@
 # zgadywanka-lab1
-Gra Za Dużo Za Mało realizowana na zajęciach lab1
+Gra Za Dużo Za Mało realizowana na zajęciach lab1n
 
 ## Rozdział 1
 
 ### Rozdział 1.1
-sfsfscxxzcwdadadadada
-1w11s12s1sdadadasfc
-fsfsfsrf121eqdcscscs
 
-dadafalfafafafafa`Console.WriteLine()` 12121adaqdadqadadad
+ sdfjlsdjfg jdsfl ldsj glsdj
+  dsfjglsdfjg sdfl jglsdfjg
+  
+sdf ljdflsjgl sdjgj 
+l dfjslgsdl 
+
+dkasdjghfkasdgfkjasf `Console.WriteLine()` dlfj ldj slgj sdljg ldj
 
 ```csharp
 int x = 1;
@@ -20,16 +23,16 @@ for(int i = 1; i < n; i++)
 }
 ```
 
-
+[kliknij tutaj](http://e.wsei.edu.pl)
 
 - punkt 1
 - punkt 2
 
-adadadadadadaff
+l;dfjlsdjfl sdjlf jslj f
 
-1. 121adaa
-1. daada
-1. ddadada
+1. aaa
+1. sss
+1. dddd
 
 
 
