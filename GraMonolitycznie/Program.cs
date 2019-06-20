@@ -10,6 +10,9 @@ namespace GraMonolitycznie
     {
         static void Main(string[] args)
         {
+            Random generator = new Random();
+            int blef =generator.Next(1, 11);
+            int ilosc_krokow = 0;
             /*
             Console.WriteLine("Witaj!");
             Console.Write("Podaj swoje imię: ");
@@ -18,18 +21,21 @@ namespace GraMonolitycznie
             */
 
             // 1. Komputer losuje liczbę
-            Random generator = new Random();
+
             int wylosowana = generator.Next(1, 101);
             Console.WriteLine("Wylosowałem liczbę od 1 do 100. \n Odgadnij ją");
 
 #if(DEBUG)
-            Console.WriteLine(wylosowana);
+            //Console.WriteLine(wylosowana);
 #endif
 
             //wykonuj
             bool trafiono = false; //wartownik (zwany czasami flagą)
+        blef:
             do
             {
+                ilosc_krokow++;
+               
                 #region Krok 2. Człowiek proponuje rozwiązanie
                 Console.Write("Podaj swoją propozycję: ");
                 string tekst = Console.ReadLine();
@@ -58,15 +64,32 @@ namespace GraMonolitycznie
 
                 #region Krok 3. Komputer ocenia propozycję
                 if (propozycja < wylosowana)
+                {
+                    if (ilosc_krokow == blef)
+                    {
+                        ilosc_krokow = 0;
+                        Console.WriteLine("za dużo");
+                        goto blef;                    }
                     Console.WriteLine("za mało");
+                }
                 else if (propozycja > wylosowana)
+                {
+                    if (ilosc_krokow == blef)
+                    {
+                        ilosc_krokow = 0;
+                        Console.WriteLine("za mało");
+                        goto blef;
+                    }
                     Console.WriteLine("za dużo");
+                }
                 else
                 {
                     Console.WriteLine("trafiono");
                     trafiono = true;
                 }
                 #endregion
+                
+
             }
             while (!trafiono);
             //do momentu trafienia

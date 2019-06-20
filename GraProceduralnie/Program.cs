@@ -8,6 +8,8 @@ namespace GraMonolitycznie
 {
     class Program
     {
+        Form1 FORM1 = new Form1();
+        FORM1.Show();
         /// <summary>
         /// Generuje wartość pseudolosową z podanego zakresu
         /// </summary>
