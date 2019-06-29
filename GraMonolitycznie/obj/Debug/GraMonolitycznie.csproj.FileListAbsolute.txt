@@ -1,7 +1,0 @@
-C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
-C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
-C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
-C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
-C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
-C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
-C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb
