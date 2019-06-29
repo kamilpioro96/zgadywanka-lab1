@@ -1,0 +1,42 @@
+C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
+C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
+C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
+C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master — kopia\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master — kopia\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master — kopia\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master — kopia\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master — kopia\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master — kopia\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\Moj projekt\zgadywanka-lab1-master — kopia\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\Moj projekt\wlasciwa\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
+C:\Users\WirtuX\Desktop\Moj projekt\wlasciwa\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\Moj projekt\wlasciwa\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\Moj projekt\wlasciwa\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
+C:\Users\WirtuX\Desktop\Moj projekt\wlasciwa\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
+C:\Users\WirtuX\Desktop\Moj projekt\wlasciwa\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\Moj projekt\wlasciwa\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\Moj projekt\najnowsza\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
+C:\Users\WirtuX\Desktop\Moj projekt\najnowsza\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\Moj projekt\najnowsza\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\Moj projekt\najnowsza\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
+C:\Users\WirtuX\Desktop\Moj projekt\najnowsza\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
+C:\Users\WirtuX\Desktop\Moj projekt\najnowsza\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\Moj projekt\najnowsza\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\najnowsza1\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
+C:\Users\WirtuX\Desktop\najnowsza1\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\najnowsza1\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
+C:\Users\WirtuX\Desktop\najnowsza1\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
+C:\Users\WirtuX\Desktop\najnowsza1\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
+C:\Users\WirtuX\Desktop\najnowsza1\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
+C:\Users\WirtuX\Desktop\najnowsza1\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb
